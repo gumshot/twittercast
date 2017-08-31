@@ -2,7 +2,7 @@ Twittercast - Shoutcast/Icecast Song Title To Twitter PHP Status Script
 
 Supports Shoutcast V1/2 or Icecast
 
-1. Register a new app at http://dev.twitter.com/apps/new
+1. Register a new app at http://apps.twitter.com/
 2. Fill in API keys and server info in shoutcast.php or icecast.php
 3. Upload all files to your webserver in a web accessable directory
 4. Set permissions on uploaded files to 755
